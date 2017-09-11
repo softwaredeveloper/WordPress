@@ -1,7 +1,7 @@
 WordPress
 =========
 
-Freelance wordpress developer (http://www.phpfreelanceprogrammer.com/wordpress-developer.html) available.
+[Freelance wordpress developer](https://www.phpfreelanceprogrammer.com/wordpress-developer.html) available.
 
 WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! 
 This repository is just a mirror of the WordPress subversion repository.
